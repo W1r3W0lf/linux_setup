@@ -1,0 +1,70 @@
+	[DEV TOOLS]
+build-essential
+clang
+meld
+gdb
+git
+
+	[SEC TOOLS]
+nmap
+wireshark
+
+	[TOOLS]
+ncdu
+wget
+keepassxc
+transmission
+tmux
+bless
+htop
+synaptic
+gparted
+vim
+emacs
+
+	[MEDIA]
+vlc
+audacity
+inkscape
+ffmpeg
+kdenlive
+
+	[VMs]
+virt-manager
+qemu
+kvm
+docker.io
+wine
+wine64
+
+	[LANGS]
+clojure
+guile-2.2
+clisp
+perl
+python
+awk
+
+	[FUN]
+cmatrix
+neofetch
+steam-installer
+
+	[OFFICE]
+libreoffice
+thunderbird
+mutt
+
+	[OTHER]
+firefox
+gameconqueror
+hexchat
+ht
+openvpn
+
+	[PPA]
+obs-studio
+onionshare
+signal-desktop 
+tensorflow-cuda-latest
+

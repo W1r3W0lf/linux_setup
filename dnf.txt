@@ -1,0 +1,42 @@
+	[DEV TOOLS]
+gcc
+clang
+gdb
+git
+
+	[SEC TOOLS]
+nmap
+wireshark
+
+	[TOOLS]
+ncdu
+wget
+keepassxc
+transmission-gtk
+tmux
+bless
+htop
+gparted
+vim
+emacs
+
+	[MEDIA]
+vlc
+audacity
+inkscape
+ffmpeg
+
+	[LANGS]
+clojure
+clisp
+perl
+python
+awk
+
+	[OFFICE]
+libreoffice
+thunderbird
+
+	[OTHER]
+firefox
+
